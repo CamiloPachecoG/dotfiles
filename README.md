@@ -1,2 +1,2 @@
 
-##Config ArchLinux Qtile
+Personal Config ArchLinux Qtile
